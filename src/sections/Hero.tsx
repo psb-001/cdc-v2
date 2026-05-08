@@ -68,7 +68,7 @@ export const Hero: React.FC = () => {
         >
           CAREER<br />
           <span className="text-neon-orange">DEVELOPMENT</span><br />
-          CELL.
+          CELL
         </motion.h1>
 
         {/* Divider */}

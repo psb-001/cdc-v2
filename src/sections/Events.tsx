@@ -100,7 +100,7 @@ export const Events: React.FC = () => {
                 UPCOMING_EVENT
               </div>
               <h2 className="font-display text-[32px] sm:text-[48px] lg:text-[72px] xl:text-[88px] leading-[1.05] tracking-[-0.01em] uppercase text-white">
-                Workshop: Hands-On IoT &amp; AI.
+                Workshop: Hands On IoT & amp ; AI.
               </h2>
             </div>
             <div className="lg:text-right flex-shrink-0">

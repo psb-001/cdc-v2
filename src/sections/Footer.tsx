@@ -66,8 +66,7 @@ export const Footer: React.FC = () => {
               <div className="hover:text-neon-orange transition-colors cursor-default">cdcclub.admin@proton.me</div>
               <div className="hover:text-neon-orange transition-colors cursor-default">9158574903</div>
               <div className="leading-relaxed text-white/30">
-                CTS, 30, F.P.28,<br />
-                Karve Road, Pune 411004
+                CTS, 30, F.P.28, Karve Road, Pune 411004
               </div>
             </div>
           </div>

@@ -1,0 +1,16 @@
+{
+  "name": "CDC — Career Development Cell",
+  "short_name": "CDC",
+  "description": "Career Development Cell at MES MLCOE, Pune. Empowering students with skills, guidance, and industry connections.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#FF4D00",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

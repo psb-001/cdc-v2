@@ -8,6 +8,7 @@ import atharv from './atharv.jpg';
 import mohil from './mohil.jpg';
 import ayush from './ayush.jpg';
 import dnyanratna from './Dnyanratna.jpg';
+import gourish from './gourish.jpg';
 
 export {
   logo,
@@ -20,4 +21,5 @@ export {
   mohil,
   ayush,
   dnyanratna,
+  gourish,
 };
